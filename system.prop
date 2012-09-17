@@ -5,7 +5,7 @@
 rild.libpath=/system/lib/libsec-ril.so
 rild.libargs=-d /dev/ttyS0
 
-# I9100G Hardware Info
+# Samsung GT-I9100G Hardware Info
 ro.device.cpu=Dual-core 1.2GHz Cortex-A9
 ro.device.gpu=PowerVR SGX540
 ro.device.rear_cam=8 MP
